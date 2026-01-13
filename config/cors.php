@@ -22,7 +22,9 @@ return [
         'http://localhost:5173',
         'http://127.0.0.1:5173',
         'https://frontend2-y6lw.vercel.app',
-        'https://frontend2-baptistaezes-projects.vercel.app'
+        'https://frontend2-baptistaezes-projects.vercel.app',
+        'https://front-vue-beryl.vercel.app',
+        
     ],
 
     'allowed_origins_patterns' => [],
